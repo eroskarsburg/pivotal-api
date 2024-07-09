@@ -1,0 +1,6 @@
+@Pivotal.Web_HostAddress = http://localhost:5039
+
+GET {{Pivotal.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
