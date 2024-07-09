@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pivotal.Web", "Pivotal.Web\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pivotal.DataAccess", "Pivotal.DataAccess\Pivotal.DataAccess.csproj", "{C509A8D7-43CC-4510-A671-E858F886B927}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7E421084-D171-4833-A2EC-65558B85C6B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83058E0A-D83D-4D55-9398-F065247C9F1C} = {7E421084-D171-4833-A2EC-65558B85C6B3}
+		{C509A8D7-43CC-4510-A671-E858F886B927} = {7E421084-D171-4833-A2EC-65558B85C6B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B2C0965E-3153-48F4-8A69-43042D6BBCB4}
