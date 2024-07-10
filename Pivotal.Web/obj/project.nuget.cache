@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NF44Gxy+rUurpEEvZ6cj8QKilADmeXrIKQE4le5DwChHa8cfg1tp5OAbQKukOHtkS5ksTEBEiowAanwZET15sA==",
+  "dgSpecHash": "Lx+InVUYlACfCLcOglaeiiBCeUGKqseZjlfCUL5lzNFv2sGLn/8FuxgopqyA18MZFG9lNoZ3fEF4Ml9RvuWKRw==",
   "success": true,
-  "projectFilePath": "C:\\Repositories\\PivotalWebApi\\Pivotal.Web\\Pivotal.Web.csproj",
+  "projectFilePath": "C:\\Repositories\\PivotalWebApi\\Pivotal.Web\\Pivotal.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erosk\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\erosk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
