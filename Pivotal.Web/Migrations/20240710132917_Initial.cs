@@ -7,6 +7,7 @@ namespace Pivotal.API.Migrations
     /// <inheritdoc />
     public partial class Initial : Migration
     {
+        //TODO: Generate migrations in Pivotal.Persistence project.
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
